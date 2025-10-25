@@ -94,3 +94,4 @@ export default function Avatar() {
 
   return <group ref={root} />;
 }
+// hi
