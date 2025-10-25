@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* optional design tokens (you can tweak these) */
+@theme {
+  --color-brand: #6c5ce7;
+  --radius-card: 1rem;
+  --spacing-card: 1.25rem;
+}
